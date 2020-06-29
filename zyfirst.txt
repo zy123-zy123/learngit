@@ -2,4 +2,9 @@ Git is a version control system.
 Git is free software.
 Git is very good
 version   back
-& branch
+<<<<<<< HEAD
+and branch
+=======
+add branch
+add branch Dev
+>>>>>>> dev
